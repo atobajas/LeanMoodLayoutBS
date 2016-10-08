@@ -1,2 +1,2 @@
-# LeanMood_EditTraining_BS
-Window desing: LeanMood | Edit Trainig
+# LeanMood_TrainingDashboard_BS
+Window desing: LeanMood | Trainig Dashboard
