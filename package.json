@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/borjamaza/LeanMood_EditTraining_BS.git"
   },
-  "author": "Borja Maza",
+  "author": "Antonio Tobajas",
   "license": "ISC",
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
@@ -20,7 +20,7 @@
     "gulp-sass": "^2.3.2"
   },
   "bugs": {
-    "url": "https://github.com/borjamaza/LeanMood_EditTraining_BS/issues"
+    "url": "https://github.com/atobajas/LeanMoodLayoutBS/issues"
   },
-  "homepage": "https://github.com/borjamaza/LeanMood_EditTraining_BS"
+  "homepage": "https://github.com/atobajas/LeanMoodLayoutBS"
 }
